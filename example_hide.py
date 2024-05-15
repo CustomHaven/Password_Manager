@@ -1,0 +1,1 @@
+EMAIL = "Youremail@gmail.com" # or keep it blank but adjust in the code accordingly
